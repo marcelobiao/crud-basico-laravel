@@ -16,7 +16,7 @@
   <nav>
    <div class="nav-wrapper deep-orange">
      <div class="container">
-       <a href="#!" class="brand-logo">Curso de Laravel 2</a>
+       <a href="#!" class="brand-logo">Curso de Laravel 3</a>
        <a href="#" data-activates="mobile" class="button-collapse"><i class="material-icons">menu</i></a>
        <ul class="right hide-on-med-and-down">
             <li><a href="/">Home</a></li>
